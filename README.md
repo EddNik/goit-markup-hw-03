@@ -146,6 +146,17 @@
 
 ## 🧷 Додаткові ресурси 📚
 
+  -	Особливості inline-block елементів - https://css-tricks.com/fighting-the-space-between-inline-block-elements/
+  -	Повний посібник з Flexbox - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+  -	Гра по Flexbox - http://flexboxfroggy.com/
+  -	Ще одна гра на вивчення флексів https://mastery.games/flexboxzombies/
+  - Специфікація - https://developer.mozilla.org/en-US/docs/Web/CSS
+  -	Слова, які часто використовуються в CSS-класах - https://github.com/YK911/basic-dictionary
+  -	Плагін, який аналізує відразу всі шрифти макета https://www.youtube.com/watch?v=6nKQsgiNIFc
+  -	Шукати плагін можна як у відео чи простіше: Головне меню Figma -> Plugins -> Manage plugins -> Font Fascia
+  -	Посилання на довідник по HTML і CSS https://css.in.ua/
+  -	https://cdnjs.com/libraries/modern-normalize
+
 - 🖼 [Remove.bg](https://www.remove.bg/) – сервіс для видалення фону із зображень
 - 🛠 [iLoveIMG](https://www.iloveimg.com/) – інструменти для обробки зображень
 - ✅ [W3C Validator](https://validator.w3.org/) – перевірка HTML-коду на помилки
