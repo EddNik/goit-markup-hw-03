@@ -130,7 +130,7 @@ img {
 
 .navigation-link,
 .contacts-link,
-.logo {
+.header-logo {
   padding: 24px 0;
 }
 
@@ -235,6 +235,7 @@ img {
   padding-top: 32px;
   padding-bottom: 32px;
   border: 1px solid #e7e9fc;
+  text-align: center;
 }
 .project-card {
   border-bottom: 1px solid #e7e9fc;
@@ -260,13 +261,20 @@ img {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--headers-color);
-  text-align: center;
+
   margin-bottom: 8px;
 }
+/* .project-card-title {
+  text-align: left;
+} */
 
-.person-card-content {
-  text-align: center;
+.project-card {
+  text-align: left;
 }
+
+/* .person-card-content {
+  text-align: center;
+} */
 
 .our-portfolio-list {
   flex-wrap: wrap;
@@ -290,9 +298,8 @@ img {
   padding: 100px 0;
 }
 
-.container.footer {
-  width: 264px;
-  margin-left: 156px;
+.page-footer-text {
+  max-width: 264px;
 }
 
 .logo-part,
