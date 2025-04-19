@@ -49,7 +49,6 @@ img {
 }
 
 /* common */
-
 .container {
   max-width: 1158px;
   padding: 0 15px;
@@ -167,7 +166,6 @@ img {
 }
 
 /* Спеціалізація */
-
 .section.hero-image {
   padding: 188px 0;
 }
@@ -205,7 +203,6 @@ img {
 }
 
 /* Features Studio */
-
 .feature-list,
 .our-team-list {
   gap: 24px;
@@ -261,20 +258,12 @@ img {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--headers-color);
-
   margin-bottom: 8px;
 }
-/* .project-card-title {
-  text-align: left;
-} */
 
 .project-card {
   text-align: left;
 }
-
-/* .person-card-content {
-  text-align: center;
-} */
 
 .our-portfolio-list {
   flex-wrap: wrap;
@@ -287,11 +276,9 @@ img {
 }
 
 /* Футер */
-
 .footer-logo {
   display: inline-block;
   margin-bottom: 16px;
-  margin-right: auto;
 }
 
 .page-footer {
